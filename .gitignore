@@ -1,0 +1,26 @@
+*ReSharper*
+TestResults
+*.log
+*.sln.cache
+*.suo
+*.user
+*.xap
+*.crt
+*.key
+*.pfx
+bin
+Bin
+obj
+buildlog.txt
+build
+package
+*.ncrunchproject
+*.ncrunchsolution
+*.crunchsolution.cache
+*src/Desktop/Fs.Base.Outlook.Plugin.Setup/Base CRM For Outlook/*
+*.iw9
+*.tmp_proj
+*_rltm_*
+
+*.bak
+/src/_NCrunch_WinBase/StoredText
